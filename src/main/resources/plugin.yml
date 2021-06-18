@@ -1,0 +1,7 @@
+name: AntiLavaCast
+version: ${project.version}
+main: com.olliejw.antilavacast.AntiLavaCast
+api-version: 1.16
+authors: [ OllieJW ]
+description: Stops lava casting
+website: mc.eutora.com
